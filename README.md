@@ -79,7 +79,7 @@ symbol_value = {
 
 
 # Project Structure 
-
+```
 simplepy/
 ├── main.py
 ├── README.md
