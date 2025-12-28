@@ -80,7 +80,6 @@ symbol_value = {
 
 # Project Structure 
 
-
 simplepy/
 ├── main.py
 ├── README.md
@@ -90,7 +89,11 @@ simplepy/
 └── .python-version
 
 
-# To Run 
-``clone this repo 
-`` run 
--uv run main.py
+---
+
+## ▶️ How to Run
+
+### 1️⃣ Clone the repository
+```bash
+git clone <repo-url>
+cd simplepy
