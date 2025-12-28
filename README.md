@@ -59,6 +59,7 @@ User sets a bet amount **per line**, validated against min/max limits.
 
 
 ## Project Structure 
+``
 simplepy/
 ├── main.py
 ├── README.md
