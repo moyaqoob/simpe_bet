@@ -60,7 +60,7 @@ User sets a bet amount **per line**, validated against min/max limits.
 ## 🔢 Symbol Configuration
 
 ### Symbol Frequency
-```python
+``python
 
 
 symbol_count = {
@@ -78,7 +78,8 @@ symbol_value = {
 }
 
 
-### Project Structure 
+# Project Structure 
+
 
 simplepy/
 ├── main.py
@@ -89,8 +90,7 @@ simplepy/
 └── .python-version
 
 
-## To Run 
-
+# To Run 
 ``clone this repo 
 `` run 
 -uv run main.py
