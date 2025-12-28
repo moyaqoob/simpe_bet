@@ -79,7 +79,7 @@ symbol_value = {
 
 
 # Project Structure 
-```
+``
 simplepy/
 ├── main.py
 ├── README.md
@@ -95,5 +95,6 @@ simplepy/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/moyaqoob/simpe_bet.git
 cd simplepy
+uv run main.py
